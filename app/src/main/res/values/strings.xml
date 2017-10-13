@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="tvhave">Have Fun</string>
+    <string name="tvdosome">Do Something</string>
+    <string name="tvclick">Click Here</string>
+    <string name="tvsurprise">Surprise</string>
+</resources>

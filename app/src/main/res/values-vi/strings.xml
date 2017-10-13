@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="tvclick">Bấm Vào Đây</string>
+    <string name="tvdosome">Làm Việc Gì</string>
+    <string name="tvhave">Chúc Vui Vẻ</string>
+    <string name="tvsurprise">Sự Ngạc Nhiên</string>
+</resources>
